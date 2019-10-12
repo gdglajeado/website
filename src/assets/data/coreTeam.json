@@ -1,56 +1,29 @@
 [
     {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Front End Developer",
+        "name":"Diego Maia",
+        "designation":"Analista de Infraestrutura",
         "twitter":"",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
-        "website":""
+        "linkedin":"https://www.linkedin.com/in/diegosmaia",
+        "github":"https://fossday.org/github.com/2dsm",
+        "profileImage":"diego-maia.jpg",
+        "website":"https://diegosmaia.me"
     },
     {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
+        "name":"Rafael Dutra",
+        "designation":"SysAdmin",
+        "twitter":"https://twitter.com/raffaeldutra",
+        "linkedin":"https://www.linkedin.com/in/rafaeldutra",
+        "github":"https://github.com/raffaeldutra",
         "profileImage":"",
-        "website":""
+        "website":"https://rafaeldutra.me"
     },
     {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
-        "website":""
+        "name":"Régis Tomkiel",
+        "designation":"Coordenador de projetos",
+        "twitter":"https://twitter.com/tomtomkiel",
+        "linkedin":"https://www.linkedin.com/in/regis-tomkiel",
+        "github":"https://github.com/rtomkiel",
+        "profileImage":"regis-tomkiel.jpeg",
+        "website":"https://doseextra.com.br"
     }
 ]

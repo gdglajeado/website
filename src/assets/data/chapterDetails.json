@@ -1,34 +1,34 @@
 {
-    "ChapterName":"GDG Jalandhar",
-    "ChapterShortDescription":"Google Developers Group Jalandhar is an initiative to concentrate the efforts of many developers in and around Punjab to learn, share and get productive using the various Google products.",
-    "ChapterLongDec":"Google Developer Group Jalandhar is inspired by GTUG/GDG Family . We started our journey in Feb 2011. We try to engage student developers, fresh graduates and professionals through our hack events & meetups. The motive is to create a local ecosystem of programmers & hackers in and around Jalandhar. The technology awareness is main goal for first few years of the group.",
-    "ChapterMeetupLink":"https://www.meetup.com/GDG-Jalandhar",
-    "ChapterEmail":"gdgjalandhar@gmail.com",
-    "website":"https://gdgjalandhar.com",
+    "ChapterName":"GDG lajeado",
+    "ChapterShortDescription":"O GDG Lajeado é uma iniciativa que concentra os esforços de muitos desenvolvedores na região para aprender, compartilhar e obter produtividade usando os vários produtos do Google..",
+    "ChapterLongDec":"O GDG Lajeado tem como objetivo envolver profissionais e estudantes na área de Tecnologia da Informação por meio de nossos eventos e encontros, de modo a criar um ecossistema local de desenvolvedores de Software e/ou Infraestrutura cada vez mais forte e qualificado no Vale do Taquari.",
+    "ChapterMeetupLink":"https://www.meetup.com/GDG-lajeado",
+    "ChapterEmail":"contato@gdglajado.dev",
+    "website":"https://gdglajeado.dev",
     "GDGProgramWebsite":"https://developers.google.com/programs/community/",
-    "ChapterHashTags":["GDGJalandhar","WTMJalandhar","GDG","WTM"],
+    "ChapterHashTags":["GDGlajeado","WTMlajeado","GDG","WTM"],
     "socialLinks":[
         {
             "name" : "Facebook",
-            "link" : "https://www.facebook.com/GDGJalandhar/",
+            "link" : "https://www.facebook.com/GDGlajeado/",
             "icon" : "fab fa-facebook"
         },
         {
-            "name" : "Google Plus",
-            "link" : "https://plus.google.com/u/0/+GdgjalandharIn/posts",
-            "icon" : "fab fa-google-plus"
+            "name" : "Github",
+            "link" : "https://github.com/gdg-lajeado",
+            "icon" : "fab fa-github"
         },
         {
             "name" : "Twitter",
-            "link" : "https://twitter.com/gdgjalandhar",
+            "link" : "https://twitter.com/gdglajeado",
             "icon" : "fab fa-twitter"
         },
         {
             "name" : "Meetup",
-            "link" : "https://www.meetup.com/GDG-Jalandhar/",
+            "link" : "https://www.meetup.com/GDG-lajeado/",
             "icon" : "fab fa-meetup"
         }
     ],
     "wtmWebsite":"https://www.womentechmakers.com/",
-    "aboutGDGProgram":"GDGs are local groups of developers who are specifically interested in Google products and APIs. Each local group is called a GDG chapter and can host a variety of technical activities for developers - from just a few people getting together to watch our latest videos, to large gatherings with demos and tech talks, to hackathons."
+    "aboutGDGProgram":"Os GDGs são grupos locais de desenvolvedores que estão especificamente interessados ​​em produtos e APIs do Google. Cada grupo local é chamado de capítulo GDG e pode hospedar uma variedade de atividades técnicas para desenvolvedores - desde apenas algumas pessoas se reunindo para assistir nossos vídeos mais recentes, até grandes reuniões com demos e palestras técnicas, até hackathons."
 }

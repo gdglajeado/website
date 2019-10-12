@@ -8,10 +8,10 @@ export default new Vuex.Store({
     drawer: false,
     items: [ 
       { text: 'Home', to: '/', icon:'home'},
-      { text: 'Events', to: '/events', icon: 'rounded_corner'},
-      { text: 'Team', to: '/team', icon:'group'},
-      { text: 'About', to: '/about', icon: 'toc'},
-      { text: 'Contact', to: '/contact', icon:'person'}
+      { text: 'Eventos', to: '/events', icon: 'rounded_corner'},
+      { text: 'Equipe', to: '/team', icon:'group'},
+      { text: 'Sobre', to: '/about', icon: 'toc'},
+      { text: 'Contato', to: '/contact', icon:'person'}
     ]
   },
   getters:{

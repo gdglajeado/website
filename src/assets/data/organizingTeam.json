@@ -1,47 +1,29 @@
 [
     {
-        "name":"Name",
-        "designation":"Development",
-        "twitter":"https://twitter.com/",
-        "linkedin":"https://www.linkedin.com/",
-        "github":"https://github.com/",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Management",
+        "name":"Diego Maia",
+        "designation":"Analista de Infraestrutura",
         "twitter":"",
-        "linkedin":"https://www.linkedin.com/",
-        "github":"",
-        "profileImage":"",
-        "website":""
+        "linkedin":"https://www.linkedin.com/in/diegosmaia",
+        "github":"https://fossday.org/github.com/2dsm",
+        "profileImage":"diego-maia.jpg",
+        "website":"https://diegosmaia.me"
     },
     {
-        "name":"Name",
-        "designation":"Development",
-        "twitter":"https://twitter.com/",
-        "linkedin":"https://www.linkedin.com/",
-        "github":"https://www.github.com/",
+        "name":"Rafael Dutra",
+        "designation":"SysAdmin",
+        "twitter":"https://twitter.com/raffaeldutra",
+        "linkedin":"https://www.linkedin.com/in/rafaeldutra",
+        "github":"https://github.com/raffaeldutra",
         "profileImage":"",
-        "website":""
+        "website":"https://rafaeldutra.me"
     },
     {
-        "name":"Name",
-        "designation":"Development",
-        "twitter":"https://twitter.com/",
-        "linkedin":"https://linkedin.com/",
-        "github":"https://github.com/",
-        "profileImage":"",
-        "website":"https://github.com"
-    },
-    {
-        "name":"Name",
-        "designation":"Development",
-        "twitter":"https://twitter.com/",
-        "linkedin":"",
-        "github":"https://github.com/",
-        "profileImage":"",
-        "website":""
+        "name":"Régis Tomkiel",
+        "designation":"Coordenador de projetos",
+        "twitter":"https://twitter.com/tomtomkiel",
+        "linkedin":"https://www.linkedin.com/in/regis-tomkiel",
+        "github":"https://github.com/rtomkiel",
+        "profileImage":"regis-tomkiel.jpeg",
+        "website":"https://doseextra.com.br"
     }
 ]
