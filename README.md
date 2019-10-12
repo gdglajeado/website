@@ -1,8 +1,5 @@
 # Aura - GDG[x]
 [![MadeWithVueJs.com shield](https://madewithvuejs.com/storage/repo-shields/1444-shield.svg)](https://madewithvuejs.com/p/aura/shield-link)
-[![Build Status](https://travis-ci.org/gdg-x/aura.svg?branch=master)](https://travis-ci.org/gdg-x/aura)
-
-<img width="100%" src="https://raw.githubusercontent.com/GDG-Jalandhar/WebsiteData/master/promotion%20images/Aura%20v1.0.3.png">
 
 Standard Web App for GDG's Communties. <br>
 [Demo](https://aura-client-master.firebaseapp.com/) <br>
@@ -181,6 +178,8 @@ Awesome! Contributions of all kinds are greatly appreciated. To help smoothen th
 | GDG Chennai | [View Now](https://gdgchennai.in)|
 | GDG Kano | [View Now](http://kano.gdg.ng/)|
 | GDG Gandhinagar |[View Now](https://gdggandhinagar.org/) |
+| GDG Lajeado | [View Now](http://gdglajeado.dev/) |
+
 
 
 Project is published under the [MIT license](/LICENSE.md).  
