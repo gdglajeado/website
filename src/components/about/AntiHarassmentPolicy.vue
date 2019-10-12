@@ -3,60 +3,56 @@
         <v-layout wrap align-start justify-start row fill-height class="my-0" >
      
             <v-flex xs12 md8 lg8 class="pa-2 my-0">
-                <p class="google-font" style="font-size:180%;color:#0277bd">Anti-Harassment Policy</p>
-
+                <p class="google-font" style="font-size:180%;color:#0277bd">Política Anti-Assédio</p>
                 <p class="google-font" style="font-size:110%">
-                    <b style="font-size:120%;color: #2E2E2E;">Why do we have an official Anti-Harassment policy for {{chapterDetails.ChapterName}} events?</b>
-
+                    <b style="font-size:120%;color: #2E2E2E;">Por que temos uma política oficial de anti-assédio para eventos do {{chapterDetails.ChapterName}}?</b>
                     <ul class="mt-2" style="font-size:110%">
-                        <li class="google-font">It sets expectations for behavior at the event. Simply having an anti-harassment policy can prevent harassment.</li>
-                        <li class="google-font">It encourages people to attend who have had bad experiences at other events</li>
-                        <li class="google-font">It gives event staff/volunteers instructions on how to handle harassment quickly, with minimum amount of disruption for the event.</li>
+                        <li class="google-font">Ele define expectativas de comportamento no evento. Basta ter uma política anti-assédio que possa impedir o assédio.</li>
+                        <li class="google-font">Encoraja as pessoas a comparecer que tiveram experiências ruins em outros eventos.</li>
+                        <li class="google-font">Dá instruções aos funcionários / voluntários do evento sobre como lidar com o assédio rapidamente, com o mínimo de interrupção para o evento.</li>
                     </ul>
                 </p>
 
                 <p class="google-font" style="font-size:110%">
-                    <b style="font-size:120%;color: #2E2E2E;">{{chapterDetails.ChapterName}} is dedicated to providing a harassment-free event experience for everyone, regardless of: </b>
+                    <b style="font-size:120%;color: #2E2E2E;">{{chapterDetails.ChapterName}} dedica-se a proporcionar uma experiência de evento sem assédio para todos, independentemente de:</b>
 
                     <ul class="mt-2" style="font-size:110%">
-                        <li class="google-font">Gender</li>
-                        <li class="google-font">Sexual Orientation</li>
-                        <li class="google-font">Disability</li>
-                        <li class="google-font">Gender Identity</li>
-                        <li class="google-font">Age</li>
-                        <li class="google-font">Race</li>
-                        <li class="google-font">Religion</li>
-                        <li class="google-font">Nationality</li>
+                        <li class="google-font">Gênero</li>
+                        <li class="google-font">orientação sexual</li>
+                        <li class="google-font">Deficiência</li>
+                        <li class="google-font">Ideologia de gẽnero</li>
+                        <li class="google-font">Idade</li>
+                        <li class="google-font">Raça</li>
+                        <li class="google-font">Religião</li>
+                        <li class="google-font">Nacionalidade</li>
                     </ul>
 
-                    <span class="google-font" style="font-size:110%">The above is not an exhaustive list -- we do not tolerate harassment of event spanarticipants in any form. </span>
+                    <span class="google-font" style="font-size:110%">O acima não é uma lista exaustiva - não toleramos o assédio de participantes do evento em qualquer forma.</span>
                 </p>
 
-                <p class="google-font" style="font-size:120%">Sexual language and imagery is not appropriate for any event venue, including talks. Event participants violating these rules may be expelled from the event, and event banned from future events at the discretion of the event organizers/management. </p>
+                <p class="google-font" style="font-size:120%">Linguagem e imagens sexuais não são apropriadas para nenhum local do evento, incluindo palestras. Os participantes do evento que violarem essas regras podem ser expulsos do evento e o evento banido de eventos futuros, a critério dos organizadores / gerenciamento do evento.</p>
 
-                <p class="google-font" style="font-size:110%">Harassment includes (but is not limited to):
+                <p class="google-font" style="font-size:110%">Assédio inclui (mas não está limitado a):
                     <ul class="mt-2" style="font-size:110%">
-                        <li class="google-font">Offensive verbal comments related to gender, sexual orientation, disability, gender identity, age, race, religion</li>
-                        <li class="google-font">The use or display of sexual images in public spaces</li>
-                        <li class="google-font">Deliberate intimidation</li>
-                        <li class="google-font">Stalking</li>
-                        <li class="google-font">Harassing photography or recording</li>
-                        <li class="google-font">Sustained disruption of talks or other events</li>
-                        <li class="google-font">Inappropriate physical contact</li>
-                        <li class="google-font">Unwelcome sexual attention</li>
+                        <li class="google-font">Comentários verbais ofensivos relacionados a gênero, orientação sexual, deficiência, identidade de gênero, idade, raça, religião</li>
+                        <li class="google-font">O uso ou exibição de imagens sexuais em espaços públicos</li>
+                        <li class="google-font">Intimidação deliberada</li>
+                        <li class="google-font">Perseguição</li>
+                        <li class="google-font">Assediar fotografia ou gravação</li>
+                        <li class="google-font">Ruptura sustentada de conversas ou outros eventos</li>
+                        <li class="google-font">Contato físico inadequado</li>
+                        <li class="google-font">Atenção sexual indesejada</li>
                     </ul>
                 </p>
 
-                <p class="google-font" style="font-size:120%">Participants asked to stop any harassing behavior are expected to comply immediately. 
+                <p class="google-font" style="font-size:120%">Os participantes solicitados a impedir qualquer comportamento de assédio devem cumprir imediatamente. 
                     <br><br>
-                    Exhibiting partners and guests are also subject to the anti-harassment policy. In particular, exhibitors and speakers should not use sexualized images, activities, or other material, or otherwise create a sexualized environment in their slide decks, exhibit material, exhibit staffing, promotional items or demo material. 
+                    Os parceiros e convidados expositores também estão sujeitos à política anti-assédio. Em particular, expositores e oradores não devem usar imagens sexualizadas, atividades ou outro material, ou criar um ambiente sexualizado em seus decks de slides, exibir material, expor funcionários, itens promocionais ou material de demonstração.
                     <br><br>
-                    If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact an organizer or event volunteer immediately. Organizers and event volunteers may be identified by t-shirts or special badges/lanyards. Organizers will investigate the issue and take appropriate action. This may include helping participants contact venue security or local law enforcement, provide escorts, or otherwise assist these experiencing harassment to fell safe for the duration of the event. 
+                    Se você estiver sendo assediado, observa que outra pessoa está sendo assediada ou tenha outras dúvidas, entre em contato com um organizador ou voluntário do evento imediatamente. Organizadores e voluntários de eventos podem ser identificados por camisetas ou crachás / colhedores especiais. Os organizadores investigarão o problema e tomarão as medidas apropriadas. Isso pode incluir ajudar os participantes a entrar em contato com a segurança do local ou com a polícia local, providenciar acompanhantes ou, de outra forma, ajudar essas vítimas de assedio a se sentirem seguros pela duração do evento.
                     <br><br>
-                    Though we hope that we never have to invoke this policy, we believe that having this document helps everyone think a little more about how their actions and words affect the whole community, as well as individuals in the community.
+                    Embora esperemos que nunca tenhamos que invocar essa política, acreditamos que ter esse documento ajuda todos a pensar um pouco mais sobre como suas ações e palavras afetam toda a comunidade, bem como os indivíduos da comunidade.
                 </p>
-
-
             </v-flex> 
            
             <v-flex xs12 md4 lg4 class="pa-2 hidden-sm-and-down">

@@ -26,7 +26,7 @@
         router
         to="/events"
       >
-        <span>Events</span>
+        <span>Eventos</span>
         <v-icon>rounded_corner</v-icon>
       </v-btn>
 
@@ -37,7 +37,7 @@
         router
         to="/team"
       >
-        <span>Team</span>
+        <span>Time</span>
         <v-icon>group</v-icon>
       </v-btn>
 
@@ -48,7 +48,7 @@
         router
         to="/about"
       >
-        <span>About</span>
+        <span>Sobre</span>
         <v-icon>toc</v-icon>
       </v-btn>
 

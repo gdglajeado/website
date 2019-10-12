@@ -166,7 +166,7 @@
                     <v-icon color="grey darken-1">info</v-icon>
                   </v-btn>
 
-                  <span>See More about {{item.name}}</span>
+                  <span>Veja mais em: {{item.name}}</span>
                 </v-tooltip>
               </v-list-tile-action>
             </v-list-tile>
@@ -175,7 +175,7 @@
       </v-flex>
       <v-flex xs12 v-if="notFoundEventFlag==true" class="text-xs-center">
         <p class="google-font px-2" style="font-size:140%">
-          <v-icon>highlight_off</v-icon>Events Not Found!
+          <v-icon>highlight_off</v-icon>Eventos não encontrados!
         </p>
       </v-flex>
     </v-layout>

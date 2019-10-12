@@ -2,16 +2,13 @@
   <v-container class="pa-0">
     <v-snackbar v-model="errorAlert" bottom left>
       {{ errorMsg }}
-      <v-btn color="pink" flat @click="errorAlert = false">Close</v-btn>
+      <v-btn color="pink" flat @click="errorAlert = false">Fechar</v-btn>
     </v-snackbar>
 
     <v-layout wrap align-center justify-center row fill-height class="mt-0 mb-0">
       <v-flex xs12 md12 lg12 class="pa-2 mb-0">
         <p class="google-font mb-0" style="font-size:170%;color:#0277bd">Upcoming Events</p>
-        <p
-          class="google-font mt-0 mb-0"
-          style="font-size:120%"
-        >Our events are open to newbies, developers, managers, and organizations who are interested in Google's technologies or use them as part of their projects.</p>
+        <p class="google-font mt-0 mb-0" style="font-size:120%">Nossos eventos são abertos para iniciantes, desenvolvedores, gerentes, e empresas que estão interessadas nos produtos de tecnologia do Google ou usam ela de alguma maneira.</p>
       </v-flex>
     </v-layout>
 
@@ -110,7 +107,7 @@
 
       <v-flex xs12 v-if="notFoundUpcomingEventFlag==true">
         <p class="google-font px-2" style="font-size:140%">
-          <v-icon>highlight_off</v-icon>Upcoming Events Not Found!
+          <v-icon>highlight_off</v-icon>Próximos eventos ainda não definidos!
         </p>
       </v-flex>
     </v-layout>
@@ -186,7 +183,7 @@
 
       <v-flex xs12 v-if="notFoundUpcomingEventFlag==true">
         <p class="google-font px-2" style="font-size:140%">
-          <v-icon>highlight_off</v-icon>Upcoming Events Not Found!
+          <v-icon>highlight_off</v-icon>Pŕoximos eventos ainda não definidos!
         </p>
       </v-flex>
     </v-layout>
