@@ -4,9 +4,9 @@
         "designation":"Analista de Infraestrutura",
         "twitter":"",
         "linkedin":"https://www.linkedin.com/in/diegosmaia",
-        "github":"https://fossday.org/github.com/2dsm",
+        "github":"https://github.com/2dsm",
         "profileImage":"diego-maia.jpg",
-        "website":"https://diegosmaia.me"
+        "website":"http://www.diegosmaia.me"
     },
     {
         "name":"Rafael Dutra",
@@ -14,7 +14,7 @@
         "twitter":"https://twitter.com/raffaeldutra",
         "linkedin":"https://www.linkedin.com/in/rafaeldutra",
         "github":"https://github.com/raffaeldutra",
-        "profileImage":"",
+        "profileImage":"rafael-dutra.jpeg",
         "website":"https://rafaeldutra.me"
     },
     {
@@ -24,6 +24,6 @@
         "linkedin":"https://www.linkedin.com/in/regis-tomkiel",
         "github":"https://github.com/rtomkiel",
         "profileImage":"regis-tomkiel.jpeg",
-        "website":"https://doseextra.com.br"
+        "website":"https://doseextra.com"
     }
 ]
