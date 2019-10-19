@@ -1,21 +1,20 @@
 {
-    "FeatureEventName":"Primeiro GDG Lajeado",
-    "EventImage":"",
-    "EventDate":{
-        "Date":"28",
-        "Month":"11",
-        "Year":"2019"
+    "FeatureEventName": "Primeiro GDG Lajeado",
+    "EventImage": "",
+    "EventDate": {
+        "Date": "28",
+        "Month": "11",
+        "Year": "2019"
     },
-    "EventTime":{
-        "StartTime":"19:00",
-        "EndTime":"22:30"
+    "EventTime": {
+        "StartTime": "19:00",
+        "EndTime": "22:30"
     },
-    "EventVenue":"Apeejay Institute of Management Technical Campus, Rama Mandi, Hoshiarpur Road, Jalandhar",
-    "EventVenueMapLink":"https://goo.gl/maps/4Z8pminYsp42",
-    "EventWebsite":"https://gdglajeado.dev/",
-    "EventDescription":"Lançamento da primeira edição do GDG Lajeado, venha conferir!",
-    "MeetupLink":"https://www.meetup.com/GDG-Lajeado/events/253165595/",
-    "RegistrationLink":"https://docs.google.com/forms",
-    "FBEventPageURL":"s"
+    "EventVenue": "Apeejay Institute of Management Technical Campus, Rama Mandi, Hoshiarpur Road, Jalandhar",
+    "EventVenueMapLink": "https://goo.gl/maps/4Z8pminYsp42",
+    "EventWebsite": "https://gdglajeado.dev/",
+    "EventDescription": "Lançamento da primeira edição do GDG Lajeado, venha conferir!",
+    "MeetupLink": "https://www.meetup.com/GDG-Lajeado/events/253165595/",
+    "RegistrationLink": "https://docs.google.com/forms",
+    "FBEventPageURL": "s"
 }
-

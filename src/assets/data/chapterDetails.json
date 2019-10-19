@@ -1,34 +1,39 @@
 {
-    "ChapterName":"GDG lajeado",
-    "ChapterShortDescription":"O GDG Lajeado é uma iniciativa que concentra os esforços de muitos desenvolvedores na região para aprender, compartilhar e obter produtividade usando os vários produtos do Google..",
-    "ChapterLongDec":"O GDG Lajeado tem como objetivo envolver profissionais e estudantes na área de Tecnologia da Informação por meio de nossos eventos e encontros, de modo a criar um ecossistema local de desenvolvedores de Software e/ou Infraestrutura cada vez mais forte e qualificado no Vale do Taquari.",
-    "ChapterMeetupLink":"https://www.meetup.com/GDG-lajeado",
-    "ChapterEmail":"contato@gdglajado.dev",
-    "website":"https://gdglajeado.dev",
-    "GDGProgramWebsite":"https://developers.google.com/programs/community/",
-    "ChapterHashTags":["GDGlajeado","WTMlajeado","GDG","WTM"],
-    "socialLinks":[
+    "ChapterName": "GDG lajeado",
+    "ChapterShortDescription": "O GDG Lajeado é uma iniciativa que concentra os esforços de muitos desenvolvedores na região para aprender, compartilhar e obter produtividade usando os vários produtos do Google..",
+    "ChapterLongDec": "O GDG Lajeado tem como objetivo envolver profissionais e estudantes na área de Tecnologia da Informação por meio de nossos eventos e encontros, de modo a criar um ecossistema local de desenvolvedores de Software e/ou Infraestrutura cada vez mais forte e qualificado no Vale do Taquari.",
+    "ChapterMeetupLink": "https://www.meetup.com/GDG-lajeado",
+    "ChapterEmail": "gdglajado@gmail.com",
+    "website": "https://gdglajeado.dev",
+    "GDGProgramWebsite": "https://developers.google.com/programs/community/",
+    "ChapterHashTags": [
+        "GDGlajeado",
+        "WTMlajeado",
+        "GDG",
+        "WTM"
+    ],
+    "socialLinks": [
         {
-            "name" : "Facebook",
-            "link" : "https://www.facebook.com/GDGlajeado/",
-            "icon" : "fab fa-facebook"
+            "name": "Facebook",
+            "link": "https://www.facebook.com/GDGlajeado/",
+            "icon": "fab fa-facebook"
         },
         {
-            "name" : "Github",
-            "link" : "https://github.com/gdg-lajeado",
-            "icon" : "fab fa-github"
+            "name": "Github",
+            "link": "https://github.com/gdg-lajeado",
+            "icon": "fab fa-github"
         },
         {
-            "name" : "Twitter",
-            "link" : "https://twitter.com/gdglajeado",
-            "icon" : "fab fa-twitter"
+            "name": "Twitter",
+            "link": "https://twitter.com/gdglajeado",
+            "icon": "fab fa-twitter"
         },
         {
-            "name" : "Meetup",
-            "link" : "https://www.meetup.com/GDG-lajeado/",
-            "icon" : "fab fa-meetup"
+            "name": "Meetup",
+            "link": "https://www.meetup.com/GDG-lajeado/",
+            "icon": "fab fa-meetup"
         }
     ],
-    "wtmWebsite":"https://www.womentechmakers.com/",
-    "aboutGDGProgram":"Os GDGs são grupos locais de desenvolvedores que estão especificamente interessados ​​em produtos e APIs do Google. Cada grupo local é chamado de capítulo GDG e pode hospedar uma variedade de atividades técnicas para desenvolvedores - desde apenas algumas pessoas se reunindo para assistir nossos vídeos mais recentes, até grandes reuniões com demos e palestras técnicas, até hackathons."
+    "wtmWebsite": "https://www.womentechmakers.com/",
+    "aboutGDGProgram": "Os GDGs são grupos locais de desenvolvedores que estão especificamente interessados ​​em produtos e APIs do Google. Cada grupo local é chamado de capítulo GDG e pode hospedar uma variedade de atividades técnicas para desenvolvedores - desde apenas algumas pessoas se reunindo para assistir nossos vídeos mais recentes, até grandes reuniões com demos e palestras técnicas, até hackathons."
 }

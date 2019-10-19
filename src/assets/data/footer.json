@@ -1,62 +1,62 @@
 {
-    "AboutSession":[
+    "AboutSession": [
         {
-            "LinkName":"GDG Lajeado",
-            "Link":"/"
+            "LinkName": "GDG Lajeado",
+            "Link": "/"
         },
         {
-            "LinkName":"Google Developers Groups",
-            "Link":"https://developers.google.com/programs/community/gdg/"
+            "LinkName": "Google Developers Groups",
+            "Link": "https://developers.google.com/programs/community/gdg/"
         },
         {
-            "LinkName":"WomenTechamkers",
-            "Link":"https://www.womentechmakers.com/"
+            "LinkName": "WomenTechamkers",
+            "Link": "https://www.womentechmakers.com/"
         },
         {
-            "LinkName":"Torne-se um membro",
-            "Link":"https://www.meetup.com/GDG-Lajeado/"
+            "LinkName": "Torne-se um membro",
+            "Link": "https://www.meetup.com/GDG-Lajeado/"
         }
     ],
-    "ChapterResourcesSession":[
+    "ChapterResourcesSession": [
         {
-            "LinkName" : "Patrocine",
-            "Link" : "mailto:gdglajeado@gmail.com"
+            "LinkName": "Patrocine",
+            "Link": "mailto:gdglajeado@gmail.com"
         },
         {
-            "LinkName" : "Palestre",
-            "Link" : "mailto:gdglajeado@gmail.com"
+            "LinkName": "Palestre",
+            "Link": "mailto:gdglajeado@gmail.com"
         },
         {
-            "LinkName" : "Media Kit",
-            "Link" : "https://drive.google.com/drive/folders/16rHDaHbuS_YApMWgJHUxygpd-A5gCkLK"
+            "LinkName": "Media Kit",
+            "Link": "https://drive.google.com/drive/folders/16rHDaHbuS_YApMWgJHUxygpd-A5gCkLK"
         }
     ],
-    "DevConsole":[
+    "DevConsole": [
         {
-            "LinkName" : "Google API Console",
-            "Link" : "https://console.developers.google.com/"
+            "LinkName": "Google API Console",
+            "Link": "https://console.developers.google.com/"
         },
         {
-            "LinkName" : "GCP Console",
-            "Link" : "https://console.cloud.google.com/"
+            "LinkName": "GCP Console",
+            "Link": "https://console.cloud.google.com/"
         },
         {
-            "LinkName" : "Google Play Console",
-            "Link" : "https://console.cloud.google.com/"
+            "LinkName": "Google Play Console",
+            "Link": "https://console.cloud.google.com/"
         },
         {
-            "LinkName" : "Firebase Console",
-            "Link" : "https://console.firebase.google.com/"
+            "LinkName": "Firebase Console",
+            "Link": "https://console.firebase.google.com/"
         }
     ],
-    "FooterEndSession":[
+    "FooterEndSession": [
         {
-            "LinkName" : "Código de Conduta",
-            "Link" : "https://docs.google.com/document/d/1Wz_w6Z7usMnXKFMpOY4IPbA35twK7Uc4CAxScGDiwOk/edit"
+            "LinkName": "Código de Conduta",
+            "Link": "https://docs.google.com/document/d/1Wz_w6Z7usMnXKFMpOY4IPbA35twK7Uc4CAxScGDiwOk/edit"
         },
         {
-            "LinkName" : "Termos & Serviços",
-            "Link" : "https://docs.google.com/document/d/14g3fv9NItiB8Hd-YGYyVYd2N4LRxe6Bx3syWse_wsiA/edit?usp=sharing"
+            "LinkName": "Termos & Serviços",
+            "Link": "https://docs.google.com/document/d/14g3fv9NItiB8Hd-YGYyVYd2N4LRxe6Bx3syWse_wsiA/edit?usp=sharing"
         }
     ]
 }

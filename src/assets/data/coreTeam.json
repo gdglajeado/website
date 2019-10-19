@@ -1,29 +1,29 @@
 [
     {
-        "name":"Diego Maia",
-        "designation":"Analista de Infraestrutura",
-        "twitter":"",
-        "linkedin":"https://www.linkedin.com/in/diegosmaia",
-        "github":"https://fossday.org/github.com/2dsm",
-        "profileImage":"diego-maia.jpg",
-        "website":"http://www.diegosmaia.me"
+        "name": "Diego Maia",
+        "designation": "Analista de Infraestrutura",
+        "twitter": "",
+        "linkedin": "https://www.linkedin.com/in/diegosmaia",
+        "github": "https://fossday.org/github.com/2dsm",
+        "profileImage": "diego-maia.jpg",
+        "website": "http://www.diegosmaia.me"
     },
     {
-        "name":"Rafael Dutra",
-        "designation":"SysAdmin",
-        "twitter":"https://twitter.com/raffaeldutra",
-        "linkedin":"https://www.linkedin.com/in/rafaeldutra",
-        "github":"https://github.com/raffaeldutra",
-        "profileImage":"rafael-dutra.jpeg",
-        "website":"https://rafaeldutra.me"
+        "name": "Rafael Dutra",
+        "designation": "SysAdmin",
+        "twitter": "https://twitter.com/raffaeldutra",
+        "linkedin": "https://www.linkedin.com/in/rafaeldutra",
+        "github": "https://github.com/raffaeldutra",
+        "profileImage": "rafael-dutra.jpeg",
+        "website": "https://rafaeldutra.me"
     },
     {
-        "name":"Régis Tomkiel",
-        "designation":"Coordenador de projetos",
-        "twitter":"https://twitter.com/tomtomkiel",
-        "linkedin":"https://www.linkedin.com/in/regis-tomkiel",
-        "github":"https://github.com/rtomkiel",
-        "profileImage":"regis-tomkiel.jpeg",
-        "website":"https://doseextra.com.br"
+        "name": "Régis Tomkiel",
+        "designation": "Coordenador de projetos",
+        "twitter": "https://twitter.com/tomtomkiel",
+        "linkedin": "https://www.linkedin.com/in/regis-tomkiel",
+        "github": "https://github.com/rtomkiel",
+        "profileImage": "regis-tomkiel.jpeg",
+        "website": "https://doseextra.com.br"
     }
 ]

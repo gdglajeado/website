@@ -1,32 +1,29 @@
 {
-    "communityGuideline":[
+    "communityGuideline": [
         {
-            "name":"Seja Legal",
-            "des":"Nós todos somos parte da mesma comunidade, então seja amigável e legal. Seja aquela pessoa onde todos queiram você por perto."
+            "name": "Seja Legal",
+            "des": "Nós todos somos parte da mesma comunidade, então seja amigável e legal. Seja aquela pessoa onde todos queiram você por perto."
         },
         {
-            "name":"Seja respeitoso e construtivo",
-            "des":"Lembre-se de ser respeitoso e construtivo em sua comunicação com os outros membros. Não entre em discussões desrespeitosas, nem faça ataques pessoais. Todos devem assumir a responsabilidade pela comunidade e tomar a iniciativa de difundir a tensão e interromper uma discussão negativa o mais cedo possível."
+            "name": "Seja respeitoso e construtivo",
+            "des": "Lembre-se de ser respeitoso e construtivo em sua comunicação com os outros membros. Não entre em discussões desrespeitosas, nem faça ataques pessoais. Todos devem assumir a responsabilidade pela comunidade e tomar a iniciativa de difundir a tensão e interromper uma discussão negativa o mais cedo possível."
         },
         {
-            "name":"Seja colaborativo",
-            "des":"Vamos trabalhar juntos! Nós podemos aprender muito um com o outro. Compartilhemos conhecimento e ajudemos uns aos outros."
+            "name": "Seja colaborativo",
+            "des": "Vamos trabalhar juntos! Nós podemos aprender muito um com o outro. Compartilhemos conhecimento e ajudemos uns aos outros."
         },
         {
-            "name":"Participe",
-            "des":"Participe de discussões, compareça regularmente a reuniões presenciais, ofereça sugestões e ajude a tornar essas sugestões realidade."
+            "name": "Participe",
+            "des": "Participe de discussões, compareça regularmente a reuniões presenciais, ofereça sugestões e ajude a tornar essas sugestões realidade."
         },
         {
-            "name":"Seja responsável",
-            "des":"Se você tem alguma forma de responsabilidade em sua comunidade, esteja ciente de suas próprias restrições. Se você souber que um novo emprego ou situação pessoal limitará seu tempo, encontre alguém que possa assumir o seu cargo e transferir as informações relevantes (contatos, senhas, etc.) para uma transição tranquila."
+            "name": "Seja responsável",
+            "des": "Se você tem alguma forma de responsabilidade em sua comunidade, esteja ciente de suas próprias restrições. Se você souber que um novo emprego ou situação pessoal limitará seu tempo, encontre alguém que possa assumir o seu cargo e transferir as informações relevantes (contatos, senhas, etc.) para uma transição tranquila."
         },
         {
-            "name":"Basic etiquette for online discussions",
-            "des":"Não envie mensagens para uma lista grande que só precisa ir para uma pessoa. Evite conversas sobre tópicos ao mínimo. Não envie spam por meio de publicidade ou promoção de projetos pessoais que estão fora do assunto."
+            "name": "Basic etiquette for online discussions",
+            "des": "Não envie mensagens para uma lista grande que só precisa ir para uma pessoa. Evite conversas sobre tópicos ao mínimo. Não envie spam por meio de publicidade ou promoção de projetos pessoais que estão fora do assunto."
         }
-
     ],
-    "coc":"Quando você participa de nossos programas, você está se juntando a uma comunidade. E como qualquer comunidade em crescimento, algumas regras básicas sobre o comportamento esperado são boas para todos. Essas diretrizes abrangem o comportamento on-line (por exemplo, listas de correspondência, canais sociais) e off-line (por exemplo, encontros presenciais). Violações deste código de conduta podem resultar na remoção dos membros do programa. Use seu melhor julgamento e, se quiser mais clareza ou tiver dúvidas, não hesite em entrar em contato."
-
-
+    "coc": "Quando você participa de nossos programas, você está se juntando a uma comunidade. E como qualquer comunidade em crescimento, algumas regras básicas sobre o comportamento esperado são boas para todos. Essas diretrizes abrangem o comportamento on-line (por exemplo, listas de correspondência, canais sociais) e off-line (por exemplo, encontros presenciais). Violações deste código de conduta podem resultar na remoção dos membros do programa. Use seu melhor julgamento e, se quiser mais clareza ou tiver dúvidas, não hesite em entrar em contato."
 }
